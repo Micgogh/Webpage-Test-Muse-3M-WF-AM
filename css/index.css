@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #8331A6;
+	color: transparent;
+	background-color: transparent;
 }
 
 @-ms-viewport
@@ -31,7 +31,7 @@
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: transparent;
 }
 
 #page
@@ -41,7 +41,7 @@
 	min-height: 0px;
 	background-image: none;
 	border-style: none;
-	border-color: #000000;
+	border-color: transparent;
 	background-color: transparent;
 	padding-top: 128px;
 	padding-right: 768px;
